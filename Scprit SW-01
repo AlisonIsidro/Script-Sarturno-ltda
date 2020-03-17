@@ -30,7 +30,6 @@ description CONECTADA AO PC-01
 exit
 interface fastethernet 0/2
 description CONECTADA AO PC-02
-exit
 interface gigabitethernet 0/0
 description CONECTADA A INTERFACE G0/1 DO SW-01
 ip default-gateway 172.16.15.1
