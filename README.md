@@ -1,1 +1,0 @@
-# Script-Saturno-ltda
